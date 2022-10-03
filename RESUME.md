@@ -16,6 +16,9 @@
      Roblox development
      Discord bot development
      pc and software repairs
+     
+## Typing
+ -Fluent wiht a keybaord at ~50 wpm
 
  
 I own a website at https://stantheman4507.com
