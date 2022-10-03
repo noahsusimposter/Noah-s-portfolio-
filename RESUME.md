@@ -18,7 +18,7 @@
      pc and software repairs
      
 ## Typing
- - Fluent with a keybaord at ~50 wpm.
+ - Fluent with a keyboard at ~50 WPM.
 
  
 I own a website at https://stantheman4507.com
