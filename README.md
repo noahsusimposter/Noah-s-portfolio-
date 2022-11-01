@@ -5,6 +5,6 @@ Hello, I am noah and this is my portfolio. This is for into to software technolo
 - [Resume](RESUME.md)
 - [PROGRAMMING LANGUAGES TABLE](PROGRAMMING-LANGUAGES-TABLE.md)
 - [Binary Logic](Binary-Logic.md)
-- [Ong frfrf](bottomgamesofficial.com)
+- [Ong frfrf](https://bottomgamesofficial.com/)
 
 
