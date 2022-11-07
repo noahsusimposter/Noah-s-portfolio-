@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
+#include <unistd.h>
 
 
 char operation[1];
@@ -18,6 +19,7 @@ int num1(void) {
 	printf("First Number: ");
 	scanf("%f", &number1);
   printf("You chose %c", number1);
+  sleep(5);
   num2();
 }
 
