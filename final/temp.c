@@ -2,11 +2,12 @@
 
 
 int main() {
-int f = 0;
+float f = 0;
+float c = 0;
 
 printf("F tempature: ");
-scanf("%i", &f);
-int c = (5.0/9.0) * (f - 32); 
-printf("Your temp is: %i\n", c);
+scanf("%f", &f);
+c = (5.0/9.0) * (f - 32); 
+printf("Your temp is: %.1f\n", c);
 return 0;
 }
